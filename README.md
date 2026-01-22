@@ -1,4 +1,4 @@
-Markdown# Roleplay AI Telegram Bot
+# Roleplay AI Telegram Bot
 
 🤖 **@roleplay_ai_bot** — Your smart AI companion for Telegram channels and groups
 
