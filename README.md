@@ -4,6 +4,13 @@
 
 [Try it now → https://t.me/roleplay_ai_bot](https://t.me/roleplay_ai_bot)
 
+![Bot Logo](images/logo/botlogo.png)
+
+<!-- или с центрированием и размером -->
+<p align="center">
+  <img src="bot-logo.png" width="200" alt="Roleplay AI Bot Logo">
+</p>
+
 Roleplay AI Telegram bot: create unique personas that auto-comment posts, reply in custom style & proactively message users. Boost your Telegram channel or group engagement!
 
 <p align="center">
