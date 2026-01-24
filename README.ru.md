@@ -1,19 +1,19 @@
 <p align="center">
   <img src="bot-logo.png" width="380" alt="Roleplay AI Bot Logo">
   <br><br>
-  <h1>Roleplay AI — бот для комментариев в Telegram</h1>
+  <h1>Roleplay AI Comment Telegram Bot</h1>
 </p>
 
 <p align="center">
   <strong style="font-size: 1.4em; line-height: 1.6;">
-    Твой канал только что обрёл голос.<br>
+    Твой чат/канал только что обрёл свой голос.<br>
     Собственный ИИ-персонаж комментирует, хайпит, троллит — точно в твоём стиле.<br>
     24/7 • Мгновенный рост вовлечённости
   </strong>
 </p>
 
 <p align="center">
-  <strong>30 комментариев под постами + 100 ответов БЕСПЛАТНО навсегда</strong><br>
+  <strong>30 комментариев под постами | 100 ответов твоим подписчикам БЕСПЛАТНО навсегда</strong><br>
   <em>Pay-as-you-go • платишь только за использование
 
 <p align="center">
