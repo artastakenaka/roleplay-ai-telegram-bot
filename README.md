@@ -76,7 +76,7 @@ Takes **3–5 minutes**. Follow these steps carefully — it's super straightfor
 2. Open **@BotFather**  
    [t.me/botfather](https://t.me/botfather) (or search in Telegram)
 
-3. Send **/newbot** and set up:  
+3. Choose **Create new bot** and set up:  
    - **Display name** — something cool (e.g. "Crypto Maniac Bot")  
    - **Username** — must end with "bot" (e.g. @MyCryptoDegenBot)  
    - (Optional) Upload a nice avatar
@@ -107,12 +107,12 @@ Takes **3–5 minutes**. Follow these steps carefully — it's super straightfor
 
 3. Open the **linked discussion group**
 
-4. Add your bot (@YourBotUsername) to this group  
+4. Add your bot (@MyCryptoDegenBot) to this group  
    → As a **regular member** (no admin rights needed)
 
-5. Send **one anonymous test message**:  
-   - Click channel name → **“Send as channel”** (anonymous mode)  
-   - Type something short (e.g. "Test")
+5. Send **one anonymous message** to your discussion group:  
+   - **“Send as channel”** (anonymous mode)  
+   - Type anything you want (e.g. "Test")
 
 6. **Forward that message** to **@roleplay_ai_bot**  
    → Connection completes automatically — your bot is live!
@@ -121,15 +121,15 @@ Takes **3–5 minutes**. Follow these steps carefully — it's super straightfor
 
 1. In **@roleplay_ai_bot** chat → send **/add_group**
 
-2. Add your bot (@YourBotUsername) to the target group  
-   → As a **regular member**
+2. Add your bot (@MyCryptoDegenBot) to the target group  
+   → As a **regular member** (no admin rights needed)
 
-3. Send **one anonymous test message**:  
-   - Click channel name → **“Send as channel”** (anonymous mode)  
-   - Type something short (e.g. "Test")
+3. Send **one anonymous message** to your group:  
+   - **“Send as group”** (anonymous mode)  
+   - Type anything you want (e.g. "Test")
 
 4. **Forward that test message** to **@roleplay_ai_bot**  
-   → Connection finishes automatically
+   →  Connection completes automatically — your bot is live!
 
 ---
 
