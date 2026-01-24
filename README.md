@@ -1,7 +1,7 @@
 <p align="center">
   <img src="bot-logo.png" width="380" alt="Roleplay AI Bot Logo">
   <br><br>
-  <h1>Roleplay AI Telegram bot</h1>
+  <h1>Roleplay AI Telegram Comment bot</h1>
 </p>
 
 <p align="center">
