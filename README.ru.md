@@ -14,7 +14,7 @@
 
 <p align="center">
   <strong>30 комментариев под постами | 100 ответов твоим подписчикам БЕСПЛАТНО навсегда</strong><br>
-  <em>Pay-as-you-go • платишь только за использование
+  <em>Pay-as-you-go • платишь только за использование</em>
 
 <p align="center">
   <a href="https://t.me/roleplay_ai_bot">
