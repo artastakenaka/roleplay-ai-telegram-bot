@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/🎭%20SEE%20REAL%20EXAMPLES-@roleplay_ai_channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="See Examples">
   </a>
 </p>
-
+Bot: @roleplay_ai_bot — click the button above and start right now.
 
 🇷🇺 [Russian version → README.ru.md](./README.ru.md)
 
