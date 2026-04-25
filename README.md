@@ -13,11 +13,6 @@
 </p>
 
 <p align="center">
-  <strong>30 channel comments | 100 replies FREE forever</strong><br>
-  <em>Then pay-as-you-go • Start free now</em>
-</p>
-
-<p align="center">
   <a href="https://t.me/roleplay_ai_bot">
     <img src="https://img.shields.io/badge/🤖%20LAUNCH%20BOT%20NOW-@roleplay_ai_bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Launch Bot">
   </a>
