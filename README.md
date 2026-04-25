@@ -58,10 +58,13 @@ Create:
 
 ---
 
+
+
+
 ### 🤖 Real SKYNET bot reply
 
 <p>
-<img src="https://github.com/user-attachments/assets/02c542ee-8324-42c5-81fa-74356c6200eb" width="400" />
+<img src="https://github.com/user-attachments/assets/06ddddff-8dfd-4ed5-b8b9-dac163275891" width="400" />
 </p>
 
 <p>
