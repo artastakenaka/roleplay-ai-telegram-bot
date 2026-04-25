@@ -1,21 +1,20 @@
 <p align="center">
   <img src="bot-logo.png" width="380" alt="Roleplay AI Bot Logo">
   <br><br>
-  <h1>Roleplay AI Telegram bot | Bot for channel & groups </h1>
+  <h1>AI Bot for Telegram Channels, Groups & Community Growth</h1>
 </p>
 
 <p align="center">
-  <strong style="font-size: 1.4em; line-height: 1.6;">
-    Your community just got a voice.<br>
-    The ultimate <b>bot for Telegram channel</b> and groups admins.<br>
-    Custom AI persona comments, roasts, hypes, trolls in your Telegram channel & group.<br>
-     24/7 • Instant engagement boost • Grok telegram bot
+  <strong style="font-size: 1.35em; line-height: 1.6;">
+    Create your own AI Telegram bot with any personality.<br>
+    It comments on your posts, talks to users, boosts activity, and becomes the voice of your community.<br>
+    Perfect for channels, groups, creators, brands and admins.
   </strong>
 </p>
 
 <p align="center">
   <strong>30 channel comments | 100 replies FREE forever</strong><br>
-  <em>Then pay-as-you-go • Start free now </em>
+  <em>Then pay-as-you-go • Start free now</em>
 </p>
 
 <p align="center">
@@ -29,148 +28,149 @@
 </p>
 
 <p align="center">
-  <em>Bot: <code>@roleplay_ai_bot</code> - click the button above and start right now.</em>
+  <em>Bot: <code>@roleplay_ai_bot</code> — click the button above and start right now.</em>
 </p>
 
-🌐 **Official website:** [https://roleplay.cyberfrog.tech](https://roleplay.cyberfrog.tech/)
-<br><br>
+🌐 **Official website:** [https://roleplay.cyberfrog.tech](https://roleplay.cyberfrog.tech/)  
 🇷🇺 [Russian version → README.ru.md](./README.ru.md)
 
+---
+
+## 🚀 What Is This?
+
+**Roleplay AI Bot** lets you create a custom Telegram bot that behaves exactly how you want.
+
+Give it a prompt, personality and tone — and it will:
+
+- Comment under your Telegram posts automatically  
+- Reply to people in chat  
+- Roast, joke, flirt, argue or hype users  
+- Act like a celebrity, villain, marketer or meme lord  
+- Stay in character 24/7  
+
+Your audience will remember your channel because it feels alive.
+
+Create:
+
+- a funny troll  
+- a genius hacker  
+- an annoying enemy  
+- a loyal fan  
+- a seductive charmer  
+- a smart salesman  
+- a chaotic meme goblin  
+- literally anything you imagine
 
 ---
 
 ### 🤖 Real SKYNET bot reply
 
-<p >
+<p>
 <img src="https://github.com/user-attachments/assets/02c542ee-8324-42c5-81fa-74356c6200eb" width="400" />
 </p>
 
 <p>
-   More examples in my group → <a href="https://t.me/cyber_frog_ai">@cyber_frog_ai</a>
+More examples in my group → <a href="https://t.me/cyber_frog_ai">@cyber_frog_ai</a>
 </p>
 
 ---
 
-### ✨ What makes this bot special?
+## ✨ Why It Works
 
-- Create **unique AI characters** with personality, tone, backstory and slang 
-- **Auto-comments** under every new post in your channel or group  
-- **Smart replies** to subscribers — always in character  
-- **Proactive messages** to active users   (when permissions allow)
-- Works in **channels and groups**  
-- Understands **text + images** and conversation context  
-- Dramatically **boosts Telegram engagement** 
-- Powered by **Grok** AI for witty and natural interactions  
+- Makes your Telegram channel feel active  
+- Increases comments and reactions  
+- Keeps people in discussions longer  
+- Gives your brand a memorable personality  
+- Creates viral / funny moments automatically  
+- Works while you sleep
 
 ---
 
-### 🎭 Persona ideas (examples)
+## 🎭 Persona Ideas
 
-- Crypto degen yelling **"TO THE MOON 🚀"**  
-- Angry boomer fighting **"woke culture"**  
-- Soviet comrade major enforcing order  
-- Sarcastic roast bot  
-- Wise anime sensei  
-- Flirty waifu / husbando  
-- …literally **whatever you can imagine!** No limits.
+- Crypto degen screaming **TO THE MOON 🚀**  
+- Evil AI overlord  
+- Flirty anime waifu  
+- Angry boomer commenter  
+- Ultra positive hype guy  
+- Sarcastic roast machine  
+- Smart businessman selling everything  
+- Fake rival who argues with everyone  
+- Loyal cult follower  
+- Mysterious hacker persona  
 
 ---
 
 ## 🚀 How to Create & Connect Your Own AI Persona Bot
 
-Takes **3–5 minutes**. Follow these steps carefully — it's super straightforward!
+Takes **3–5 minutes**.
 
-### Step 1: Create Your Personal Telegram Bot
+### Step 1: Create Your Telegram Bot
 
-1. **(Recommended) Define your bot's personality first**  
-   Open chat with **@roleplay_ai_bot** → send **/create_bot**  
-   → Write & send the full prompt/behavior right away  
+1. Open **@roleplay_ai_bot**
+2. Send **/create_bot**
+3. Write how your bot should behave
 
-   *(Skip if you want — a fun **Easter egg** default prompt will be applied instead.  
-   You can edit it anytime later.)*
+Example:
 
-2. Open **@BotFather**  
-   [t.me/botfather](https://t.me/botfather) (or search in Telegram)
+> Be rude but funny.  
+> Support my channel.  
+> Roast weak opinions.  
+> Use memes and slang.
 
-3. Choose **Create new bot** and set up:  
-   - **Display name** — something cool (e.g. "Crypto Maniac Bot")  
-   - **Username** — must end with "bot" (e.g. @MyCryptoDegenBot)  
-   - (Optional) Upload a nice avatar
-
-4. **Critical settings — do this right now!**  
-   @BotFather → **/mybots** → select your bot → **Bot Settings**  
-   - **Allow Groups** → **Turn ON** (must be enabled)  
-   - **Group Privacy** → **Turn OFF** (extremely important — bot won't see messages otherwise!)
-
-5. Copy the **API Token**  
-   Example: `123456789:AAF1b2C3d4E5f6G7h8I9j0KLMnopqrstUV`
-
-6. Paste the token into the chat with **@roleplay_ai_bot**  
-   → It will securely connect everything
-
-💡 **Quick tip**: After /create_bot a short video tutorial button/link will appear — highly recommended if you're new!
+4. Open [Telegram](chatgpt://generic-entity?number=0) and chat with [BotFather](chatgpt://generic-entity?number=1)
+5. Create a new bot
+6. Copy token
+7. Send token to **@roleplay_ai_bot**
 
 ---
 
-### Step 2: Connect Your Bot to a Channel or Group
+### Step 2: Add to Channel or Group
 
-#### Option A: Connect to a Telegram Channel (with comments/discussion)
+#### For Channels
 
-1. In **@roleplay_ai_bot** chat → send **/add_channel**
+- Enable discussion group  
+- Add your bot to discussion chat  
+- Forward one anonymous message to **@roleplay_ai_bot**
 
-2. Make sure your channel has **discussion enabled**:  
-   Channel → Edit → Discussion → Link or create a group
+#### For Groups
 
-3. Open the **linked discussion group**
+- Add bot to group  
+- Send one anonymous message  
+- Forward it to **@roleplay_ai_bot**
 
-4. Add your bot (@MyCryptoDegenBot) to this group  
-   → As a **regular member** (no admin rights needed)
-
-5. Send **one anonymous message** to your discussion group:  
-   - **“Send as channel”** (anonymous mode)  
-   - Type anything you want (e.g. "Test")
-
-6. **Forward that message** to **@roleplay_ai_bot**  
-   → Connection completes automatically — your bot is live!
-
-#### Option B: Connect to a Standalone Group (no channel)
-
-1. In **@roleplay_ai_bot** chat → send **/add_group**
-
-2. Add your bot (@MyCryptoDegenBot) to the target group  
-   → As a **regular member** (no admin rights needed)
-
-3. Send **one anonymous message** to your group:  
-   - **“Send as group”** (anonymous mode)  
-   - Type anything you want (e.g. "Test")
-
-4. **Forward that test message** to **@roleplay_ai_bot**  
-   →  Connection completes automatically — your bot is live!
+Done.
 
 ---
 
-### 🎉 You're all set!
+## 🎉 What Happens Next
 
-Your custom AI persona is now active:
+Your bot starts:
 
-- Auto-comments new posts  
-- Replies in threads while staying in character  
-- Boosts engagement exactly as you designed
+- Auto-commenting posts  
+- Replying to users  
+- Creating drama / jokes / hype  
+- Growing engagement naturally  
+- Becoming memorable
 
-**Quick success checklist**
+---
 
-- [ ] Personality prompt sent (or Easter egg default used)  
-- [ ] Group Privacy = OFF  
-- [ ] Allow Groups = ON  
-- [ ] Token pasted to @roleplay_ai_bot  
-- [ ] Bot added to discussion group / group  
-- [ ] Test message forwarded
+## 🔥 Best Use Cases
 
-If something doesn't work — just message @roleplay_ai_bot support. We help fast!
+- Telegram channel growth  
+- Meme communities  
+- Crypto groups  
+- NSFW communities  
+- Fan pages  
+- Political channels  
+- Marketing pages  
+- Creator communities  
+- Gaming chats
 
-Create epic personas and watch your channel explode with activity! ✨
+---
 
-### 🔎 SEO Keywords
+## 🔎 SEO Keywords
+
 - bot for telegram channel  
 - bot telegram channel  
 - admin bot telegram  
@@ -179,3 +179,7 @@ Create epic personas and watch your channel explode with activity! ✨
 - telegram engagement bot  
 - ai telegram marketing  
 - telegram automation bot  
+- telegram ai bot for groups  
+- telegram comment bot  
+- telegram community bot  
+- ai bot for telegram admins
